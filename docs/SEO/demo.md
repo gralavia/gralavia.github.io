@@ -9,5 +9,5 @@ nav_order: 20
 The project automates the process of tracking and analyzing keyword rankings. This functionality eliminates the need for manual tracking, ensuring accuracy and efficiency in monitoring SEO progress.
 
 ### Quick Demo
-![automated_keyword_ranking_demo](automated_keyword_ranking_demo.jpg)
+![automated_keyword_ranking_demo](/docs/SEO/images/automated_keyword_ranking_demo.jpg)
 
