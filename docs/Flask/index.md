@@ -25,5 +25,5 @@ Initializes a SQLAlchemy database and associates it with the Flask app.
 2. If not, creates the database using SQLAlchemy within the Flask app context.
 
 ## Note:
-The SECRET_KEY is a cryptographic key used to keep data safe. It should be kept secret and unique for each Flask application.
-The SQLALCHEMY_DATABASE_URI specifies the URI for the SQLite database.
+1. The SECRET_KEY is a cryptographic key used to keep data safe. It should be kept secret and unique for each Flask application.
+2. The SQLALCHEMY_DATABASE_URI specifies the URI for the SQLite database.
