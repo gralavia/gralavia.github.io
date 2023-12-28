@@ -16,5 +16,3 @@ This is a HTTP server application that allows users to Queries the tide height i
 ![automated_keyword_ranking_demo](/docs/HTTP_server/images/result.jpg)
 
 A response page would be generated based on tide height conditions, displaying the tide height and whether it's safe for fishing.
-
-d
