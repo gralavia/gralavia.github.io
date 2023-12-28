@@ -9,7 +9,11 @@ nav_order: 20
 
 ### Quick Demo
 ![automated_keyword_ranking_demo](/docs/HTTP_server/images/input.jpg)
+
+This is a HTTP server application that allows users to Queries the tide height information for a specified time and location using the CWB API.
+
+---
 ![automated_keyword_ranking_demo](/docs/HTTP_server/images/result.jpg)
 
-This is a web scraping script designed to search Google for specific keywords and identify the position of a designated domain within the search results. The script utilizes the BeautifulSoup library for parsing HTML and the Requests library for making HTTP requests. 
+A response page would be generated based on tide height conditions, displaying the tide height and whether it's safe for fishing.
 
