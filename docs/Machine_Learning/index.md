@@ -5,7 +5,7 @@ layout: default
 nav_order: 5
 ---
 
-There would be some machine learning models:
+Machine learning models:
 1. Linear Regression Model
 2. K-Nearest Neighbors Model
 3. Support Vector Machine (SVM) Model
